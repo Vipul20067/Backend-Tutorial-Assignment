@@ -78,5 +78,3 @@ npm run dev
 ## A Little Note
 
 This project was a good starting point for me to understand what happens behind the scenes when we work with websites and applications. I got to practise working with databases, APIs, routes and different backend operations.
-
-Still learning and exploring more about backend development! 🚀
